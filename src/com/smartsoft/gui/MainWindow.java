@@ -747,11 +747,11 @@ public class MainWindow extends JFrame implements ActionListener{
                             this.rootNodeIndex = 97;
                         }
                         break;
-                        case "grid2":{
+                        case "GRID2":{
                             this.rootNodeIndex = 140;
                         }
                         break;    
-                        case "zigzag":{
+                        case "Zigzag":{
                             this.rootNodeIndex = 58;
                         }
                         break;
@@ -780,11 +780,11 @@ public class MainWindow extends JFrame implements ActionListener{
                             this.rootNodeIndex = 91;
                         }
                         break;
-                        case "grid2":{
+                        case "GRID2":{
                             this.rootNodeIndex = 136;
                         }
                         break;    
-                        case "zigzag":{
+                        case "Zigzag":{
                             this.rootNodeIndex = 11;
                             //this.rootNodeIndex = 0;
                             // X= 0; Y = 37.55
@@ -815,11 +815,11 @@ public class MainWindow extends JFrame implements ActionListener{
                             this.rootNodeIndex = 103;
                         }
                         break;
-                        case "grid2":{
+                        case "GRID2":{
                             this.rootNodeIndex = 144;
                         }
                         break;    
-                        case "zigzag":{
+                        case "Zigzag":{
                             this.rootNodeIndex = 127;
                         }
                         break;
@@ -848,11 +848,11 @@ public class MainWindow extends JFrame implements ActionListener{
                             this.rootNodeIndex = 6;
                         }
                         break;
-                        case "grid2":{
+                        case "GRID2":{
                             this.rootNodeIndex = 5;
                         }
                         break;    
-                        case "zigzag":{
+                        case "Zigzag":{
                             this.rootNodeIndex = 90;
                         }
                         break;
@@ -881,11 +881,11 @@ public class MainWindow extends JFrame implements ActionListener{
                             this.rootNodeIndex = 175;
                         }
                         break;
-                        case "grid2":{
+                        case "GRID2":{
                             this.rootNodeIndex = 95;
                         }
                         break;    
-                        case "zigzag":{
+                        case "Zigzag":{
                             this.rootNodeIndex = 70;
                         }
                         break;
