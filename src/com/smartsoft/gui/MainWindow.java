@@ -744,7 +744,7 @@ public class MainWindow extends JFrame implements ActionListener{
                 case "Central":{
                     switch(this.importar.getNombreTopologia()){
                         case "grid1":{
-                            this.rootNodeIndex = 91;
+                            this.rootNodeIndex = 97;
                         }
                         break;
                         case "grid2":{
@@ -777,7 +777,7 @@ public class MainWindow extends JFrame implements ActionListener{
                 case "Superior":{
                     switch(this.importar.getNombreTopologia()){
                         case "grid1":{
-                            this.rootNodeIndex = 98;
+                            this.rootNodeIndex = 91;
                         }
                         break;
                         case "grid2":{
